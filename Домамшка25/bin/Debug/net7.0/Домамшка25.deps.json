@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Домамшка25/1.0.0": {
+        "runtime": {
+          "Домамшка25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Домамшка25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
