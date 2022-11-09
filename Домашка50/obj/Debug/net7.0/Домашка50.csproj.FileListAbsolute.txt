@@ -1,0 +1,15 @@
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\bin\Debug\net7.0\Домашка50.exe
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\bin\Debug\net7.0\Домашка50.deps.json
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\bin\Debug\net7.0\Домашка50.runtimeconfig.json
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\bin\Debug\net7.0\Домашка50.dll
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\bin\Debug\net7.0\Домашка50.pdb
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.csproj.AssemblyReference.cache
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.AssemblyInfoInputs.cache
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.AssemblyInfo.cs
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.csproj.CoreCompileInputs.cache
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.dll
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\refint\Домашка50.dll
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.pdb
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\Домашка50.genruntimeconfig.cache
+C:\Users\User\Domashka2lekcia\Домашка\Домашка50\obj\Debug\net7.0\ref\Домашка50.dll
